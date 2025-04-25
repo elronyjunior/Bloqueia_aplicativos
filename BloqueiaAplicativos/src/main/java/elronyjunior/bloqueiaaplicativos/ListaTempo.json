@@ -1,0 +1,62 @@
+[
+    {
+        "Nome": "Jogo 1",
+        "Inicio": "2025-04-01T10:00:00",
+        "Fim": "2025-04-01T12:00:00",
+        "Executavel": "jogo1.exe"
+    },
+    {
+        "Nome": "Jogo 2",
+        "Inicio": "2025-04-02T14:00:00",
+        "Fim": "2025-04-02T16:00:00",
+        "Executavel": "jogo2.exe"
+    },
+    {
+        "Nome": "Jogo 3",
+        "Inicio": "2025-04-03T18:00:00",
+        "Fim": "2025-04-03T20:00:00",
+        "Executavel": "jogo3.exe"
+    },
+    {
+        "Nome": "Jogo 4",
+        "Inicio": "2025-04-04T09:00:00",
+        "Fim": "2025-04-04T11:00:00",
+        "Executavel": "jogo4.exe"
+    },
+    {
+        "Nome": "Jogo 5",
+        "Inicio": "2025-04-05T13:00:00",
+        "Fim": "2025-04-05T15:00:00",
+        "Executavel": "jogo5.exe"
+    },
+    {
+        "Nome": "Jogo 6",
+        "Inicio": "2025-04-06T10:00:00",
+        "Fim": "2025-04-06T12:00:00",
+        "Executavel": "jogo6.exe"
+    },
+    {
+        "Nome": "Jogo 7",
+        "Inicio": "2025-04-07T14:00:00",
+        "Fim": "2025-04-07T16:00:00",
+        "Executavel": "jogo7.exe"
+    },
+    {
+        "Nome": "Jogo 8",
+        "Inicio": "2025-04-08T17:00:00",
+        "Fim": "2025-04-08T19:00:00",
+        "Executavel": "jogo8.exe"
+    },
+    {
+        "Nome": "Jogo 9",
+        "Inicio": "2025-04-09T11:00:00",
+        "Fim": "2025-04-09T13:00:00",
+        "Executavel": "jogo9.exe"
+    },
+    {
+        "Nome": "Jogo 10",
+        "Inicio": "2025-04-10T15:00:00",
+        "Fim": "2025-04-10T17:00:00",
+        "Executavel": "jogo10.exe"
+    }
+]
